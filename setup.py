@@ -1,4 +1,4 @@
-from setuptools import setup, find_package
+from setuptools import setup, find_packages
 import os, sys
 
 Install = ["requests","google"]
