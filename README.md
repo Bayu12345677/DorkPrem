@@ -4,9 +4,10 @@ dork scanner da
   <summary><strong> Install Package </strong></summary>
 
   ```php
-  $ pkg install bash
-  $ pkg install git
-  $ pkg install nano
+  $ pkg update
+  $ pkg upgrade
+  $ apt-get install git openssl-tool
+  $ apt-get install make jq
   ```
   </details>
 
@@ -23,6 +24,7 @@ dork scanner da
   <summary><strong> Run script </strong></summary>
 
   ```php
+  $ python setup.py install
   $ make configure
   $ make run
   ```
