@@ -14,8 +14,8 @@ dork scanner da
   <summary><strong> Install Git </strong></summary>
 
   ```php
-  $ git clone https://github.com/Bayu12345677/Matahari-otp
-  $ cd Matahari-otp
+  $ git clone https://github.com/Bayu12345677/DorkPrem
+  $ cd DorkPrem
   ```
   </details>
 
