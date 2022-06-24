@@ -253,5 +253,5 @@ while ((start < end)); do
 	sleep 0.1s
 	tput rc
 done; tput cnorm
-#xdg-open ""
+xdg-open "https://youtube.com/channel/UCtu-GcxKL8kJBXpR1wfMgWg"
 run
