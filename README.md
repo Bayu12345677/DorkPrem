@@ -30,7 +30,7 @@ dork scanner da
 <details open>
   <summary><strong> Screenshot fitur script </strong></summary>
   <p align="center">
-  <img src="" width="440" title="Menu" alt="Menu">
+  <img src="https://github.com/Bayu12345677/DorkPrem/blob/master/img/Screenshot_20220624_201211_84d3000e3f4017145260f7618db1d683.jpg" width="440" title="Menu" alt="Menu">
   </p>
   </details>
 
