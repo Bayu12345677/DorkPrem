@@ -103,7 +103,7 @@ def: run(){
 	Tulis.strN "  ${ku}•${pu} Youtube ${me}:${pu} Pejuang Kentang"
 	Tulis.strN "  ${ku}•${pu} Tools   ${me}:${hi} C${pu}hecker ${ij}D${pu}a${m} v${me}.${pu}1$st"
 	Tulis.strN "${me}=======================================================$st"
-	Tulis.str "${me}•$pu masukan query dork$me : $st"
+	Tulis.str "${me}•$pu masukan ${ku}(${hi}query${me}/${hi}list${ku})$me> $st"
 	read target
 	echo
 	
